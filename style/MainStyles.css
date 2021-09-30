@@ -176,12 +176,15 @@ ul {
     box-shadow: 10px solid gray;
     border-bottom: 0px solid gray;
     color: white;
+    
 }
   
 .navbar > li {
     display: flex;
     align-self: center;    
 }
+
+
   
 .nameCompany{
     font-size: x-large;
